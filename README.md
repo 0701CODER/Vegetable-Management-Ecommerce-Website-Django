@@ -2,11 +2,6 @@
 
 ### Cloning the repository
 
---> Clone the repository using the command below :
-```bash
-git clone https://github.com/sajib1066/django-ecommerce.git
-
-```
 
 --> Move into the directory where we have the project files : 
 ```bash
@@ -86,7 +81,3 @@ python manage.py runserver
 </td>
 </table>
 
-
-## Documentation
-You can check up django documentation page for any further information.
-[Django Docs](https://docs.djangoproject.com/en/4.0/)
