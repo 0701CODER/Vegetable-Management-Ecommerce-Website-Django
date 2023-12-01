@@ -1,4 +1,4 @@
-# Django E-commerce Website.
+# Django Vegetable management E-commerce Website.
 
 ### Cloning the repository
 
